@@ -1,12 +1,12 @@
 # train_tesseract3
 Helper functions to train tesseract 3 and test the result of the training
 
-# Requirements
+## Requirements
 This repository is tested in Ubuntu 14.10, and might not work in earlier version
 of Ubuntu since extract\_unicharset are not installed properly in earlier
 versions. 
 
-# Structure
+## Structure
 The main part of this repository is the TrainTesseract class which contains all
 the methods needed to train tesseract3. To see an example of how to use the
 class, look in create_tess_trainingdata.py. 
