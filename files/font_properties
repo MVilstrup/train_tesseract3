@@ -1,0 +1,6 @@
+# ---Remove these lines --- 
+Structure: 
+    <fontname> <italic> <bold> <fixed> <serif> <fraktur>
+Example:
+    timesitalic 1 0 0 1 0
+" -------------------------
